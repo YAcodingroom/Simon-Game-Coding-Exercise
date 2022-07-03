@@ -10,7 +10,7 @@ var level = 0;
 
 var indexOfAns = 0;
 
-$(document).on("keypress", function() {
+$(document).on("click", function() {
   if (!start) {
     start = true;
     setTimeout(function() {
