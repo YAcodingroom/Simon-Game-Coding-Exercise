@@ -1,2 +1,2 @@
-# Web-Development-Coding-Exercise
-Web-Development-Coding-Exercise
+# Simon-Game-Coding-Exercise
+Simon-Game-Coding-Exercise
